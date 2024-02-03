@@ -4,7 +4,7 @@ import "./App.css";
 import { premiumFruits } from "./utils/premiumfruitsdata"; //premiumfruits data
 import { Beauty } from "./utils/beauty"; //beauty data
 import { SportsToysLuggages } from "./utils/sportstoysluggages"; //sportstoysLuggages data
-import { Fashion } from "./utils/Fashion"; //fashion
+import { Fashion } from "./utils/fashion"; //fashion
 import { Electronics } from "./utils/electronics"; //electronics
 import { HomeKitchenNeeds } from "./utils/HomeKitchenNeeds"; //homekitchen
 

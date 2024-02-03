@@ -1,14 +1,9 @@
-import MainCarousel from "../components/carousel/MainCarousel";
-import Base from "../components/base/Base";
 // import OfferCarousel from "../../components/carousel/OfferCarouel";
-import Poster from "../components/HomePoster/Poster";
-import { CardOne } from "../components/carousel/Card";
-import FooterCarousel from "../components/carousel/FooterCarousel";
-import TopCarousal from "../components/homepage/TopCarousal";
-import { Container, Row,Col } from "react-bootstrap";
+import { Col, Container, Row } from "react-bootstrap";
 import BigPoster from "../components/homepage/BigPoster";
 import BoxCarousal from "../components/homepage/BoxCarousal";
 import SmallBoxCarousal from "../components/homepage/SmallBoxCarousal";
+import TopCarousal from "../components/homepage/TopCarousal";
 export default function Home() {
   const topCarousalOffer1 = [
     {
